@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { log } from 'util';
 
 class ListPins extends Component {
   createPins(item) {
